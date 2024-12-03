@@ -42,5 +42,6 @@ internal class Program
 
         app.Run();
         //Code changes
+        //Testing Auto build
     }
 }
